@@ -1,6 +1,7 @@
 # ANTLR v4
 
 [![Build Travis-CI Status](https://travis-ci.org/antlr/antlr4.svg?branch=master)](https://travis-ci.org/antlr/antlr4) [![Build AppVeyor  Status](https://ci.appveyor.com/api/projects/status/5acpbx1pg7bhgh8v/branch/master?svg=true)](https://ci.appveyor.com/project/parrt/antlr4) [![Java 7+](https://img.shields.io/badge/java-7+-4c7e9f.svg)](http://java.oracle.com) [![License](https://img.shields.io/badge/license-BSD-blue.svg)](https://raw.githubusercontent.com/antlr/antlr4/master/LICENSE.txt)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmajojoe%2Fantlr4.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmajojoe%2Fantlr4?ref=badge_shield)
 
 **ANTLR** (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files. It's widely used to build languages, tools, and frameworks. From a grammar, ANTLR generates a parser that can build parse trees and also generates a listener interface (or visitor) that makes it easy to respond to the recognition of phrases of interest.
 
@@ -52,3 +53,7 @@ You will find the [Book source code](http://pragprog.com/titles/tpantlr2/source_
 [This repository](https://github.com/antlr/grammars-v4) is a collection of grammars without actions where the
 root directory name is the all-lowercase name of the language parsed
 by the grammar. For example, java, cpp, csharp, c, etc...
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmajojoe%2Fantlr4.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmajojoe%2Fantlr4?ref=badge_large)
